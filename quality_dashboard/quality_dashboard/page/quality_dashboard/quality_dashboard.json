@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2024-11-28 17:06:39.429347",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-11-28 17:06:47.022740",
+ "modified_by": "Administrator",
+ "module": "Quality Dashboard",
+ "name": "quality-dashboard",
+ "owner": "Administrator",
+ "page_name": "quality-dashboard",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Quality Dashboard"
+}
